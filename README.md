@@ -12,3 +12,6 @@ Yes, sometimes Tropical does do test commands on you but forgets to re-add your 
 
 ### There was a AA (Admin Abuse)
 When someone has full access, they can do a lot of things that we don't want to happen. So, when the server is being AA'ed, you might be suspended. We'll solve the problem ASAP.
+
+## Suspended Falsely
+Either it's someone you have beef with, or something just done in anger, and you do KNOW that you've been suspended falsely, please contact any other staff members to get it resolved.
