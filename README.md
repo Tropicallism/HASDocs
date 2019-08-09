@@ -10,4 +10,5 @@ In this channel, your question will be answered. After it's been answered or not
 
 ## Limitations
 Yes, there are limitations regarding the Tickets function.
+
 Just kidding, there's only 1 limitation of the tickets, you can only send a ticket every 6 hours!
