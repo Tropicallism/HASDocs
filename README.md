@@ -2,7 +2,7 @@
 So, what do you do when you're suspended? When you're suspended, you don't really get banned, because it hasn't come to that point yet... but you do lose access to the Discord channel, you can only see Rules and the Suspended Channel.
 
 ## How do I get unsuspended?
-Well, depending on your situation, you can contact a staff member (Head Moderator) and above. Just go through the preocedre.
+We've changed the ways of getting ususpended in the server. If you're suspended and you would like to appeal, simply go to the #ticket channel and do [;Ticket New (Message)] A new channel will be opended and you can state your facts there.
 
 ## I've been suspended, but haven't done anything?
 If you haven't done anything and gotten suspended, there might be a couple of reasons why:
@@ -14,4 +14,4 @@ Yes, sometimes Tropical does do test commands on you but forgets to re-add your 
 When someone has full access, they can do a lot of things that we don't want to happen. So, when the server is being AA'ed, you might be suspended. We'll solve the problem ASAP.
 
 ## Suspended Falsely
-Either it's someone you have beef with, or something just done in anger, and you do KNOW that you've been suspended falsely, please contact any other staff members to get it resolved.
+Either it's someone you have beef with, or something just done in anger, and you do KNOW that you've been suspended falsely, please contact any other staff members to get it resolved. Use the ticket system!
